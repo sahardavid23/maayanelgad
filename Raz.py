@@ -1,2 +1,2 @@
 def print_funny_story():
-    print("Misgav love Ziv")
+    print("מי שם רסק בקציצות ימטומטם יאוטיסט")
